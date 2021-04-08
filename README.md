@@ -1,4 +1,16 @@
-### Hi there 👋
+## [en] Welcome! 
+
+[Follow me on Twitter](https://twitter.com/alanrezende)
+
+
+
+## [pt]Seja bem vindo(a)
+[Twitter](https://twitter.com/alanrezende)
+
+[YouTube](https://youtube.com/alanrezende)
+
+[Twitch](https://twitch.tv/programadorpratico)
+
 
 <!--
 **AlanRezende/AlanRezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

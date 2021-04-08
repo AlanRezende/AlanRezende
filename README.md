@@ -1,15 +1,15 @@
 ## [en] Welcome! 
 
-[Follow me on Twitter](https://twitter.com/alanrezende)
+[Follow me on Twitter AlanRezende](https://twitter.com/alanrezende)
 
 
 
 ## [pt]Seja bem vindo(a)
-[Twitter](https://twitter.com/alanrezende)
+[Twitter @AlanRezende](https://twitter.com/alanrezende)
 
-[YouTube](https://youtube.com/alanrezende)
+[YouTube AlanRezende](https://youtube.com/alanrezende)
 
-[Twitch](https://twitch.tv/programadorpratico)
+[Twitch AlanRezendeBR](https://twitch.tv/AlanRezendeBR)
 
 
 <!--
